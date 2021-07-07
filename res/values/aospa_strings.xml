@@ -569,4 +569,9 @@
     <string name="pif_spoof_signature_summary">Spoof package signature for Google Play Services</string>
     <string name="pif_spoof_vending_build">Spoof Play Store build properties</string>
     <string name="pif_spoof_vending_build_summary">Spoof build properties for Google Play Store</string>
+    <!-- Display settings screen, increased touch sensitivity settings title [CHAR LIMIT=NONE] -->
+    <string name="touch_sensitivity_title">Touch sensitivity</string>
+    <!-- Display settings screen, increased touch sensitivity settings summary [CHAR LIMIT=NONE] -->
+    <string name="touch_sensitivity_summary">Improves touch when using screen protectors</string>
+
 </resources>
