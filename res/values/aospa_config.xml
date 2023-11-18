@@ -4,4 +4,7 @@
     <!-- Whether device supports increased touch sensitvity -->
     <bool name="config_supportGloveMode">false</bool>
 
+    <!-- Whether device supports high touch polling rate -->
+    <bool name="config_supportTouchPollingMode">false</bool>
+
 </resources>
