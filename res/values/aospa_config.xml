@@ -7,4 +7,7 @@
     <!-- Whether device supports high touch polling rate -->
     <bool name="config_supportTouchPollingMode">false</bool>
 
+    <!-- Show haptic styles -->
+    <bool name="config_supportHapticProfiles" translatable="false">false</bool>
+
 </resources>
